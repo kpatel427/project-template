@@ -39,4 +39,7 @@ Organization
 ```
 --------
 
+## Help
+Projects are version controlled, and on GitHub, the README.md can act as a project homepage. README.md should include a short project description/abstract, project members, and tags for experiment and organism.
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>

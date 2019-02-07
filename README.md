@@ -38,6 +38,7 @@ $ conda install cookiecutter
 The directory structure of your new project looks like this: 
 
 ```
+/mnt/isilon/lab_dir/project/
 ├── .gitignore
 ├── README.md
 ├── configs

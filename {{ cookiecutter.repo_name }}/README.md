@@ -9,6 +9,7 @@ Abstract
 Organization
 ------------
 ```
+├── .gitignore
 ├── README.md
 ├── configs
 │   └── README.md
@@ -21,21 +22,25 @@ Organization
 │   ├── raw
 │   │   ├── MANIFEST.csv
 │   └── ref-data
-├── documents
-│   └── README.md
 ├── models
 │   └── README.md
 ├── notebooks
 │   └── README.md
+├── references
+│   └── README.md
+├── reports
+│   ├── README.md
+│   ├── figures
+│   ├── log.md
+│   ├── methods.md
+│   └── tables
 ├── requirements
 │   └── project_requirements.txt
-├── src
-│   ├── README.md
-│   ├── rules
-│   ├── scripts
-│   └── tests
-└── write-up
-    └── README.md
+└── src
+    ├── README.md
+    ├── rules
+    ├── scripts
+    └── tests
 ```
 --------
 

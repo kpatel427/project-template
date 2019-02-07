@@ -9,6 +9,7 @@ Abstract
 Organization
 ------------
 ```
+/mnt/isilon/lab_dir/project/
 ├── .gitignore
 ├── README.md
 ├── configs

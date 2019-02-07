@@ -3,7 +3,10 @@
 
 {{cookiecutter.description}}
 
-Project Organization
+Abstract
+-----------
+
+Organization
 ------------
 ```
 ├── .gitignore

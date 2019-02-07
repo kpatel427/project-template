@@ -9,7 +9,6 @@ Abstract
 Organization
 ------------
 ```
-├── .gitignore
 ├── README.md
 ├── configs
 │   └── README.md
@@ -28,7 +27,8 @@ Organization
 │   └── README.md
 ├── notebooks
 │   └── README.md
-├── requirements.txt
+├── requirements
+│   └── project_requirements.txt
 ├── src
 │   ├── README.md
 │   ├── rules

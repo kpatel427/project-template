@@ -1,3 +1,0 @@
-ID,study_group,sample_group,gender,race,ethnicity,qc,project_status
-XX1,S001,G01,Male,White,White,PASS_QC,Used
-XX2,S001,G01,Male,White,White,FAIL_QC,Discard

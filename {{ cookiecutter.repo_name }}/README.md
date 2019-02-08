@@ -10,13 +10,14 @@ Organization
 ------------
 ```
 /mnt/isilon/lab_dir/project/
+/mnt/isilon/lab_dir/project/
 ├── .gitignore
 ├── README.md
 ├── configs
 │   └── README.md
 ├── data
+│   ├── EXPERIMENT.csv
 │   ├── README.md
-│   ├── SAMPLES.csv
 │   ├── endpoints
 │   │   ├── MANIFEST.csv
 │   ├── interim

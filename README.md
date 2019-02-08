@@ -44,8 +44,8 @@ The directory structure of your new project looks like this:
 ├── configs
 │   └── README.md
 ├── data
+│   ├── EXPERIMENT.csv
 │   ├── README.md
-│   ├── SAMPLES.csv
 │   ├── endpoints
 │   │   ├── MANIFEST.csv
 │   ├── interim
@@ -61,6 +61,7 @@ The directory structure of your new project looks like this:
 ├── reports
 │   ├── README.md
 │   ├── figures
+│   │   └── .gitkeep
 │   ├── log.md
 │   ├── methods.md
 │   └── tables

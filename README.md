@@ -61,7 +61,6 @@ The directory structure of your new project looks like this:
 ├── reports
 │   ├── README.md
 │   ├── figures
-│   │   └── .gitkeep
 │   ├── log.md
 │   ├── methods.md
 │   └── tables

@@ -1,3 +1,3 @@
-bioproject_accession,sample_name,library_ID,title,library_strategy,library_source,library_selection,library_layout,platform,instrument_model,design_description,filetype,filename,filename2,filename3,genome_source,genome_build,checksum1,checksum2,checksum3
-PROJ,s298.TongueSwab.Visit3.r1,s298.TongueSwab.Visit3.r1,Tongue swab metagenome,WGS,METAGENOMIC,RANDOM,paired,ILLUMINA,Illumina HiSeq 2500,desc,fastq,s298.TongueSwab.Visit3.r1_1.fastq,s298.TongueSwab.Visit3.r1_2.fastq,xx,UCSC,hg19,xx,xx,xx
-PROJ,s226.RectalSwab.Visit2.r1,s226.RectalSwab.Visit2.r1,Rectal swab metagenome,WGS,METAGENOMIC,RANDOM,paired,ILLUMINA,Illumina HiSeq 2500,desc,fastq,s226.RectalSwab.Visit2.r1_1.fastq,s226.RectalSwab.Visit2.r1_2.fastq,xx,UCSC,hg19,xx,xx,xx
+sample_name,library_ID,title,library_strategy,library_source,library_selection,library_layout,platform,instrument_model,design_description,filetype,filename,filename2,filename3,genome_source,genome_build
+CHOP1,s298.TongueSwab.Visit3.r1,Tongue swab metagenome,WGS,METAGENOMIC,RANDOM,paired,ILLUMINA,Illumina HiSeq 2500,desc,fastq,s298.TongueSwab.Visit3.r1_1.fastq,s298.TongueSwab.Visit3.r1_2.fastq,xx,UCSC,hg19
+CHOP2,s226.RectalSwab.Visit2.r1,Rectal swab metagenome,WGS,METAGENOMIC,RANDOM,paired,ILLUMINA,Illumina HiSeq 2500,desc,fastq,s226.RectalSwab.Visit2.r1_1.fastq,s226.RectalSwab.Visit2.r1_2.fastq,xx,UCSC,hg19

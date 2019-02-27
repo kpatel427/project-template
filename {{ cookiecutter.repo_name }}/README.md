@@ -9,7 +9,7 @@ Abstract
 Organization
 ------------
 ```
-/mnt/isilon/{{cookiecutter.lab_dir}}/{{cookecutter.project_name}}/
+/mnt/isilon/{{cookiecutter.lab_dir}}/{{cookiecutter.project_name}}/
 ├── .gitignore
 ├── README.md
 ├── configs

@@ -9,8 +9,7 @@ Abstract
 Organization
 ------------
 ```
-/mnt/isilon/lab_dir/project/
-/mnt/isilon/lab_dir/project/
+/mnt/isilon/{{cookiecutter.lab_dir}}/{{cookecutter.project_name}}/
 ├── .gitignore
 ├── README.md
 ├── configs
@@ -26,8 +25,6 @@ Organization
 │   └── ref-data
 ├── models
 │   └── README.md
-├── notebooks
-│   └── README.md
 ├── references
 │   └── README.md
 ├── reports
@@ -40,6 +37,7 @@ Organization
 │   └── project_requirements.txt
 └── src
     ├── README.md
+    ├── notebooks
     ├── rules
     ├── scripts
     └── tests
@@ -49,4 +47,4 @@ Organization
 ## Help
 Projects are version controlled, and on GitHub, the README.md can act as a project homepage. README.md should include a short project description/abstract, project members, and tags for experiment and organism.
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://github.com/samesense/project-template">CHOP project template</a>. #cookiecutterdatascience</small></p>
